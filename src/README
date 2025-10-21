@@ -1,0 +1,11 @@
+# Documentation Practice (Proyek Codelab 2)
+
+Ini adalah proyek sederhana untuk Codelab 3 mata kuliah Pemrograman Lanjut.
+
+## Deskripsi
+Proyek ini berisi satu kelas Java sederhana (`Main.java`) yang mencetak pesan ke konsol.
+
+## Cara Penggunaan
+1. Clone repositori ini.
+2. Buka proyek menggunakan IntelliJ IDEA.
+3. Jalankan file `Main.java`.
